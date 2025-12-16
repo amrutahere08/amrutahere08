@@ -1,4 +1,4 @@
-<h1 align="center">Hi Allies 👋, I am Amruta Hegde</h1>
+<h1 align="center">Hi Folks👋, I am Amruta Hegde</h1>
 <h3 align="center">Detail-Oriented MCA Student | Aspiring Full-stack developer/Software Developer Engineer</h3>
 
 <p align="center">
