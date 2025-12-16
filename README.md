@@ -28,10 +28,9 @@
     <li>🔭 I'm currently pursuing my <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (CGPA: 8.48).</li>
     <li>🎓 Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
     <li>💼 <b>Full Stack Development Intern</b> at SVARKS IT LLP (Worked on full-stack modules & DBs).</li>
-    <li>🌱 Skilled in <b>Python, Java, C, Web Development (Django/Node.js)</b>, and <b>AI/ML (TensorFlow/NLP)</b>.</li>
-    <li>🚀 Working on <b>Intelligent Tourist Systems</b> and <b>AI-Driven University Assistants</b> (Face Rec + IoT).</li>
+    <li>🌱 Skilled in <b>Python, Java, C, HTML, Web Development (Django/Node.js)</b>.</li>
     <li>📸 Passionate about <b>Photography, Videography</b>, and creative storytelling.</li>
-    <li>🎯 Seeking roles in <b>Software Development, Full-Stack Engineering, or AI/ML Engineering</b>.</li>
+    <li>🎯 Seeking roles in <b>Software Development, Full-Stac Development, or Software Engineering</b>.</li>
   </ul>
 </p>
 <br>
