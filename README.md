@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">ABOUT ME:</h2>
 
 <p align="left">
   <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
