@@ -1,8 +1,8 @@
-<h1 align="center">Hi Allies 👋, I am Amruta Hegde</h1>
+<h1 align="center">Hi Folks👋, I am Amruta Hegde</h1>
 <h3 align="center">Detail-Oriented MCA Student | Aspiring Software & AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F44336&center=true&vCenter=true&random=false&width=435&lines=Software+Development+Enthusiast;Full-Stack+Enthusiast;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F44336&center=true&vCenter=true&random=false&width=530&lines=Software+Development+Enthusiast;Full-Stack+Enthusiast;AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
     <li>🔭 I'm currently pursuing my <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (CGPA: 8.48).</li>
     <li>🎓 Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
     <li>💼 <b>Full Stack Development Intern</b> at SVARKS IT LLP (Worked on full-stack modules & DBs).</li>
-    <li>🌱 Skilled in <b>Python, Java, C, HTML, Web Development (Django/Node.js)</b>.</li>
+    <li>🌱 Skilled in <b>Python, Java, C, Web Development (Django/Node.js)</b></li>
     <li>📸 Passionate about <b>Photography, Videography</b>, and creative storytelling.</li>
-    <li>🎯 Seeking roles in <b>Software Development, Full-Stac Development, or Software Engineering</b>.</li>
+    <li>🎯 Seeking roles in <b>Software Development, Full-Stack Development, or Software Engineering</b>.</li>
   </ul>
 </p>
 <br>
