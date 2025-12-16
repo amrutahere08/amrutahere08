@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks👋, I am Amruta Hegde</h1>
-<h3 align="center">Detail-Oriented MCA Student | Aspiring Software & AI/ML Engineer</h3>
+<h3 align="center">Detail-Oriented MCA Student | Aspiring Full-stack Developer,Software Developer or Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F44336&center=true&vCenter=true&random=false&width=530&lines=Software+Development+Enthusiast;Full-Stack+Enthusiast;AI%2FML+Enthusiast" alt="Typing SVG" />
