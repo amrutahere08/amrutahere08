@@ -1,8 +1,8 @@
-<h1 align="center">Hi Folks👋, I am Amruta Hegde</h1>
-<h3 align="center">Detail-Oriented MCA Student | Aspiring Full-stack developer/Software Developer Engineer</h3>
+<h1 align="center">Hi Allies 👋, I am Amruta Hegde</h1>
+<h3 align="center">Detail-Oriented MCA Student | Aspiring Software & AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineer;Computer+Vision+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a400ff&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineer;Computer+Vision+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,20 +16,20 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://amrutahere08.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-a400ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
 
-<h2 align="left">About Me:</h2>
+<h2 align="left">💫 About Me:</h2>
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
   <ul>
     <li>🔭 I'm currently pursuing my <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (CGPA: 8.48).</li>
-    <li>� Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
+    <li>🎓 Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
     <li>💼 <b>Full Stack Development Intern</b> at SVARKS IT LLP (Worked on full-stack modules & DBs).</li>
     <li>🌱 Skilled in <b>Python, Java, C, Web Development (Django/Node.js)</b>, and <b>AI/ML (TensorFlow/NLP)</b>.</li>
-    <li>� Working on <b>Intelligent Tourist Systems</b> and <b>AI-Driven University Assistants</b> (Face Rec + IoT).</li>
+    <li>🚀 Working on <b>Intelligent Tourist Systems</b> and <b>AI-Driven University Assistants</b> (Face Rec + IoT).</li>
     <li>📸 Passionate about <b>Photography, Videography</b>, and creative storytelling.</li>
     <li>🎯 Seeking roles in <b>Software Development, Full-Stack Engineering, or AI/ML Engineering</b>.</li>
   </ul>
@@ -75,6 +75,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrutahere08&show_icons=true&theme=radical" alt="Amruta's Stats" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-
