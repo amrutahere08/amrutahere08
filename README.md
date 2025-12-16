@@ -23,7 +23,7 @@
 <h2 align="left">💫 About Me:</h2>
 
 <p align="left">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
   <ul>
     <li>🔭 I'm currently pursuing my <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (CGPA: 8.48).</li>
     <li>🎓 Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
