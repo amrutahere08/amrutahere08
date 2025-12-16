@@ -1,5 +1,5 @@
-<h1 align="center">Hi Allies 👋, I am Amruta Hegde</h1>
-<h3 align="center">Detail-Oriented MCA Student | Aspiring Software & AI/ML Engineer</h3>
+<h1 align="center">Hi Folks👋, I am Amruta Hegde</h1>
+<h3 align="center">Detail-Oriented MCA Student | Aspiring Full-stack Developer, Software Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=a400ff&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineer;Computer+Vision+Explorer" alt="Typing SVG" />
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h2 align="left">💫 About Me:</h2>
+<h2 align="left">About Me:</h2>
 
 <p align="left">
   <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
