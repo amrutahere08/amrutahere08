@@ -6,17 +6,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/amruta-hegde-1972b5342">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/amruta-hegde-1972b5342" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/amruta_hegde?igsh=MWNwbGx4aGJwdjllcw%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/amruta_hegde?igsh=MWNwbGx4aGJwdjllcw%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:hegdeamruta28@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://amrutahere08.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-a400ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <a href="https://amrutahere08.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-7B3FF2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -28,7 +28,6 @@
    <li> Currently pursuing <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (CGPA: 8.48).</li>
 <li> Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
 <li><b>Full Stack Development Intern</b> at SVARKS IT LLP (Developed full-stack modules & managed databases).</li>
-<li> Built an <b>AI-Powered Smart Campus Monitoring System</b> using Python/Flask, Face Recognition, and Machine Learning as MCA final year project.</li>
 <li> Skilled in <b>Python, Java, Flask, Django, Node.js, Machine Learning, and Database Management</b>.</li>
 <li> Experienced with <b>AI/ML technologies</b>: Face Recognition (dlib), Emotion Detection (DeepFace), and Google Gemini AI integration.</li>
 <li> Passionate about <b>Photography, Videography</b>, and creative storytelling.</li>
