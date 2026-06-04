@@ -25,13 +25,13 @@
 <p align="left">
   <img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="300">
   <ul>
-   <li> Currently pursuing <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (CGPA: 8.48).</li>
+   <li> Currently pursuing <b>Master of Computer Applications (MCA)</b> at Chanakya University, Bengaluru (SGPA: 8.89).</li>
 <li> Graduated <b>BCA</b> from JSS SMI, Dharwad in 2024 with a CGPA of 9.16.</li>
 <li><b>Full Stack Development Intern</b> at SVARKS IT LLP (Developed full-stack modules & managed databases).</li>
 <li> Skilled in <b>Python, Java, Flask, Django, Node.js, Machine Learning, and Database Management</b>.</li>
 <li> Experienced with <b>AI/ML technologies</b>: Face Recognition (dlib), Emotion Detection (DeepFace), and Google Gemini AI integration.</li>
 <li> Passionate about <b>Photography, Videography</b>, and creative storytelling.</li>
-<li> Seeking roles in <b>Software Engineering, Full-Stack Development, or AI/ML Development</b>.</li>
+<li> Seeking roles in <b>Software Development/Full-Stack Development/Software Engineering </b>.</li>
   </ul>
 </p>
 <br>
